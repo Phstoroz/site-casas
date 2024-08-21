@@ -1,0 +1,30 @@
+.barradepesquisa{
+    border-radius: 20px;
+    display: inline-block;
+    background-color: aliceblue;
+    text-align: right;
+}
+
+.logo{
+    border-radius: 20px;
+    display: inline-block;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.casasavenda{
+    border-radius: 20px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 25%px;
+    margin-right: 50%;
+}
+
+.redessociais{
+    text-align: center;
+}
+
+.rodape{
+    background-color: blue;
+}
